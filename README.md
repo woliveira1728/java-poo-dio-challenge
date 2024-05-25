@@ -1,4 +1,4 @@
-# Projeto Java: Aplicativos e Iphone
+# Desafio DIO JAVA POO
 
 Este projeto em Java demonstra o uso de diferentes módulos, como MusicPlayer, Telephone e Browser, tanto individualmente quanto através da classe IPhone. O projeto é estruturado de maneira a mostrar o uso de interfaces e a implementação de polimorfismo.
 
